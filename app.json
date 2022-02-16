@@ -1,0 +1,7 @@
+{
+  "name": "MusicBot",
+  "description": "🤖 Discord Music Bot built with discord.js by Coding with Aniket",
+  "repository":  "https://replit.com/@AnokeyOp/Discord-Music-bot-2",
+  "logo": "https://i.imgur.com/JFxgbWH.png",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
